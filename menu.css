@@ -1,0 +1,33 @@
+#menubg {height:300px;width:1002px;background-image:url('spec.png');background-repeat:no-repeat;margin:0px;padding:0px;overflow:hidden;z-index:0;clear:both;}
+
+#anbg {position:relative;top:-200px;width:167px;height:150px;background-color:white;opacity:0.6;filter:alpha(opacity=60);z-index:2;}
+
+div.mainmenu {height:25px;width:1002px;position:relative;top:-25px;background-color:white;opacity:0.6;filter:alpha(opacity=60);margin:0px;padding:0px;z-index:3;clear:both;}
+
+#cat {width:167px;height:25px;text-align:center;margin:0px;padding:0px;float:left;overflow:hidden;z-index:4;}
+
+.mm {font-family: Courier, monospace;font-size:20px;font-weight:bold;text-transform:uppercase;text-decoration:none;color:32dc47;text-shadow:0px 0px 1px 90feaf;z-index:5;}
+
+#cat:hover {background-color:blue;opacity:0.6;filter:alpha(opacity=60);}
+
+#content {position:relative;top:-325px;width:1002px;margin:0px;padding:0px;clear:both;z-index:2;}
+
+.sub {width:167px;height:150px;margin:0px;padding:0px;float:none;overflow:hidden;display:none;}
+
+#sm01,#sm02,#sm03,#sm04,#sm05,#sm06,#sm07,#sm08,#sm09,#sm10,#sm11,#sm12,#sm13,#sm14,#sm15,#sm16,#sm17,#sm18 {font-family: Courier, monospace;font-size:16px;font-weight:bold;text-transform:capitalize;text-decoration:none;color:black;text-shadow:0px 0px 1px gray;cursor:pointer;}
+
+#sub1 {position:relative;top:0px;left:0px;z-index:10;display:block;}
+
+#sub2 {position:relative;top:0px;left:167px;z-index:11;}
+
+#sub3 {position:relative;top:0px;left:334px;z-index:12;}
+
+#sub4 {position:relative;top:0px;left:501px;z-index:13;}
+
+#sub5 {position:relative;top:0px;left:668px;z-index:14;}
+
+#sub6 {position:relative;top:0px;left:835px;z-index:15;}
+
+#logo1 {position:relative;top:-320px;}
+
+#logo2 {position:relative;top:-80px;}
